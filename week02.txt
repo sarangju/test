@@ -1,5 +1,5 @@
 week02
-- linux command: ls, ls -al, pwd, cd .git, cd .
+- linux command: ls, ls -al, pwd, cd .git, cd . , echo "blahblah" >> README.md
 - git command:
 git init
 git status
@@ -8,3 +8,9 @@ git config --global user.email "you@example.com"
 git config --global user.name "your name"
 git commit -m "v0"
 git log
+git chceckout hashcode
+git checkout -
+git branch -M main
+git remote add origin https://github.com/sarangju/test.git
+git remote -v
+git push -u origin main
