@@ -1,5 +1,5 @@
 week02
-- linux command: ls, ls -al, pwd, cd .git, cd . , echo "blahblah" >> README.md
+- linux command: ls(현재폴더안에있는거보기), ls -al(숨긴거까지보기), pwd(현재위치보기), cd .git, cd . , echo "blahblah" >> README.md
 - git command:
 git init
 git status
@@ -14,3 +14,8 @@ git branch -M main
 git remote add origin https://github.com/sarangju/test.git
 git remote -v
 git push -u origin main
+git clone https://github.com/sarangju/test.git (.)
+*.을 찍으면 현재 폴더로 가져오는 것
+
+
+inhatckimtaeganc
